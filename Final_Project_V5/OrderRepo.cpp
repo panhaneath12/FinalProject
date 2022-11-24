@@ -50,7 +50,7 @@ public:
 				cin >> ch;
 				if (ch == 'y') {
 					orders.erase(it);
-					cout << "Your Order has Been Deleted\n";
+					cout << "Your Order has Been Deleted\n\n";
 				}
 				else
 				{
